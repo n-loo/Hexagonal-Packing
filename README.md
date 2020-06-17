@@ -1,1 +1,1 @@
-# Hexagonal-Stacking
+# Hexagonal-Packing
