@@ -4,8 +4,6 @@ var y = 0;
 var rt3o2 = 0.8660254037;
 var count = 0;
 var switc = 2;
-var psx;
-var psy;
 
 
 function setup() {
